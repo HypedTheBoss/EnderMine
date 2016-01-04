@@ -1,3 +1,5 @@
+EnderMine is a fork of PocketMine-MP for use with EnderPixel minigame servers. You may also use it for your own server and edit it.
+
 # ![PocketMine-MP](http://cdn.pocketmine.net/img/PocketMine-MP-h.png)
 
 

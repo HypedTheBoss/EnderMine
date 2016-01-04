@@ -55,6 +55,6 @@ class PluginsCommand extends VanillaCommand{
 			$list .= $plugin->getDescription()->getFullName();
 		}
 
-		$sender->sendMessage(new TranslationContainer("pocketmine.command.plugins.success", [count($plugins), $list]));
+		$sender->sendMessage("There are some cool plugins installed!");
 	}
 }

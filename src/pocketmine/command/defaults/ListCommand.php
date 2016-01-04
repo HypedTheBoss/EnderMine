@@ -52,8 +52,8 @@ class ListCommand extends VanillaCommand{
 			}
 		}
 
-		$sender->sendMessage(new TranslationContainer("commands.players.list", [$onlineCount, $sender->getServer()->getMaxPlayers()]));
-		$sender->sendMessage(substr($online, 0, -2));
+		$sender->sendMessage("There are enough players online:");
+		$sender->sendMessage("The EnderPixel Network community <3");
 
 		return true;
 	}

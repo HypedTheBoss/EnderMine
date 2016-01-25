@@ -44,7 +44,6 @@ use pocketmine\level\particle\LavaDripParticle;
 use pocketmine\level\particle\LavaParticle;
 use pocketmine\level\particle\Particle;
 use pocketmine\level\particle\PortalParticle;
-use pocketmine\level\particle\RainSplashParticle;
 use pocketmine\level\particle\RedstoneParticle;
 use pocketmine\level\particle\SmokeParticle;
 use pocketmine\level\particle\SplashParticle;

@@ -54,7 +54,6 @@ abstract class Particle extends Vector3{
 	const TYPE_MOB_SPELL_INSTANTANEOUS = 26;
 	const TYPE_INK = 27;
 	const TYPE_SLIME = 28;
-	const TYPE_RAIN_SPLASH = 29;
 	const TYPE_VILLAGER_ANGRY = 30;
 	const TYPE_VILLAGER_HAPPY = 31;
 	const TYPE_ENCHANTMENT_TABLE = 32;
